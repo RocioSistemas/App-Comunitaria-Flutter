@@ -1,16 +1,24 @@
-# mi_app_flutter
+App Comunitaria - Flutter & Firebase
+Descripción
 
-A new Flutter project.
+Aplicación móvil diseñada para la interacción comunitaria, permitiendo a los usuarios gestionar publicaciones de ofertas categorizadas y comunicarse de forma directa.
 
-## Getting Started
+Características Principales (Features)
 
-This project is a starting point for a Flutter application.
+• Autenticación Segura: Sistema de Login y Registro gestionado con Firebase Auth.
 
-A few resources to get you started if this is your first Flutter project:
+• Gestión de Ofertas: Publicación de anuncios organizados por categorías para una búsqueda eficiente.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+• Multimedia: Subida y visualización de imágenes mediante Firebase Storage.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+• Comunicación Directa: Integración de API para redirección a chat de WhatsApp, facilitando el contacto inmediato entre usuarios.
+
+• Base de Datos en Tiempo Real: Uso de Firestore para la persistencia y actualización de datos.
+
+Stack Tecnológico
+
+• Frontend: Flutter (Dart).
+
+• Backend: Firebase (Auth, Firestore, Storage).
+
+• Herramientas: Git, VS Code.
